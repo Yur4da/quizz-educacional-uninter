@@ -40,7 +40,8 @@ Um quiz interativo em HTML, CSS e JavaScript que ajuda estudantes a praticar ing
 
 ## Link para testar
 
-- Acesse o repositório e teste o projeto: [https://github.com/Yur4da/quizz-educacional-uninter](https://github.com/Yur4da/quizz-educacional-uninter)
+- Site publicado no GitHub Pages: [https://yur4da.github.io/quizz-educacional-uninter/](https://yur4da.github.io/quizz-educacional-uninter/)
+- Repositório: [https://github.com/Yur4da/quizz-educacional-uninter](https://github.com/Yur4da/quizz-educacional-uninter)
 
 ## Contato
 
