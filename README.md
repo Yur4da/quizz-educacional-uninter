@@ -38,6 +38,10 @@ Um quiz interativo em HTML, CSS e JavaScript que ajuda estudantes a praticar ing
 4. Faça commit das suas alterações: `git commit -m "Minha contribuição"`.
 5. Envie para o repositório remoto e abra um pull request.
 
+## Link para testar
+
+- Acesse o repositório e teste o projeto: [https://github.com/Yur4da/quizz-educacional-uninter](https://github.com/Yur4da/quizz-educacional-uninter)
+
 ## Contato
 
 - Repositório: [https://github.com/Yur4da/quizz-educacional-uninter](https://github.com/Yur4da/quizz-educacional-uninter)
